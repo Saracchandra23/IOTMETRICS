@@ -1,10 +1,12 @@
 # IOTMETRICS  WebServices and Cloud Project Seed.
 Capturing metrics of Truck  details from the IOT Sensor which are placed on the truck. 
 
-Goal
+Goal:
+
 To Capture the details of the Truck Metrics from the IOT sensor placed on the Trucks for real time Analytics
 
-Brain Stroming 
+Brain Stroming :
+
 Analysis of the IOT Sensor input Data and parsing the data to the backend Service and Retriving metrics.
 Test Data has been Used for Testing Purposes. 
 These services have been Deployed on AWS EC2 T2 Tier Instance and Jenkins and Docker have been Implemented 
